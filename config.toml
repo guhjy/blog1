@@ -2,7 +2,7 @@
 #
 baseurl = "https://example.org/"
 languageCode = "en-us"
-title = "Hugo Bootstrap v4 Blog"
+title = "Hugo Bootstrap v4 Blogs"
 theme = "hugo-theme-bootstrap4-blog"
 # number of posts to show on home/category/tag pages (Default: 10)
 paginate = 5
@@ -38,7 +38,7 @@ paginate = 5
   author = "Your Name"
 
   # Description/subtitle for homepage (can be Markdown)
-  description = "A simple Hugo theme based on the Bootstrap v4 blog example."
+  description = "A simple Hugo theme based on the Bootstrap v4 blog examples."
 
   # Format dates with Go's time formatting
   date_format = "Mon Jan 02, 2006"
